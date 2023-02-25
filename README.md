@@ -1,8 +1,7 @@
 ## Olá, me chamo Priscila e sou nova por aqui!
 
 - Sou Engenheira Mecânica em transição de carreira.
-- Estudante de Engenharia da Computação pelo Centro Universitário Etep.
-- Estudante de Back-end e Devops pela Gama Academy.
+
 ##
 
 <div align="center">
