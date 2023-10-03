@@ -1,6 +1,6 @@
 ## Olá, me chamo Priscila e sou nova por aqui!
 
-- Sou Engenheira Mecânica em transição de carreira.
+- Sou Engenheira Mecânica em transição de carreira, estudante de engenharia da computação e Mentee do Cloud Girls.
 
 ##
 
